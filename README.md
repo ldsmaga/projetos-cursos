@@ -17,4 +17,5 @@
 
 - #### ✌️ VueJS
 
-1. [Vuekedex](https://github.com/ldsmaga/projetos-cursos/tree/main/vuekedex) (Pokédex. Consulta de pokémons (Vue.JS, Axios))
+1. [Vue Form Responsivo](https://github.com/ldsmaga/projetos-cursos/tree/main/vue-form-responsivo) (Form responsivo, utilizando CSS puro. Vue.JS (Vuex, Vue Test Utils), CSS, Atomic Design)
+2. [Vuekedex](https://github.com/ldsmaga/projetos-cursos/tree/main/vuekedex) (Pokédex. Consulta de pokémons. Vue.JS, Axios)
