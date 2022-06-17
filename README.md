@@ -14,6 +14,7 @@
 1. [My Money App - Frontend](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app/frontend) (Aplicativo de gestão de finanças. React (Router, Redux))
 2. [Fundamentos React](https://github.com/ldsmaga/projetos-cursos/tree/main/fundamentos-react) (Exercícios dos principais conceitos do React)
 3. [Navegação React](https://github.com/ldsmaga/projetos-cursos/tree/main/navegacao-react) (Exemplificação básica de uso de React Router)
+4. [Calculadora React](https://github.com/ldsmaga/projetos-cursos/tree/main/react-calculadora) (Calculadora com React)
 
 - #### ✌️ VueJS
 
