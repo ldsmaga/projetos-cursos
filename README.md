@@ -8,4 +8,4 @@
 1. [My Money App](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app) (Aplicativo de gestão de finanças. React (Router, Redux), Node.JS (Express), MongoDB (Mongoose))
 
 - ### 🟢 Node.JS
-1. [My Money App](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app) (Simples projeto que permite criação e exibição de perguntas e respostas. (Node.JS (Express), EJS)
+1. [Perguntas Express](https://github.com/ldsmaga/projetos-cursos/tree/main/perguntas-express) (Simples projeto que permite criação e exibição de perguntas e respostas. (Node.JS (Express), EJS)
