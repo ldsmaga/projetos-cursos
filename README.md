@@ -11,3 +11,7 @@
 1. [My Money App - Backend](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app/backend) (Aplicativo de gestão de finanças. Node.JS (Express), MongoDB (Mongoose))
 
 2. [Perguntas Express](https://github.com/ldsmaga/projetos-cursos/tree/main/perguntas-express) (Simples projeto que permite criação e exibição de perguntas e respostas. (Node.JS (Express), EJS)
+
+- #### ✌️ VueJS
+
+1. [Vuekedex](https://github.com/ldsmaga/projetos-cursos/tree/main/vuekedex) (Pokédex. Consulta de pokémons (Vue.JS, Axios))
