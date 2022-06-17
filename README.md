@@ -5,4 +5,4 @@
 ### ⚙️ Tecnologias e seus projetos:
 
 - #### ⚛️ React
-1. [My Money App](https://github.com/ldsmaga/projetos-cursos/my-money-app) (Aplicativo de gestão de finanças. React (Router, Redux), Node.JS (Express), MongoDB (Mongoose))
+1. [My Money App](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app) (Aplicativo de gestão de finanças. React (Router, Redux), Node.JS (Express), MongoDB (Mongoose))
