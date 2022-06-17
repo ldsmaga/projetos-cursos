@@ -4,13 +4,15 @@
 
 ### ⚙️ Tecnologias e seus projetos:
 
-- #### ⚛️ React
-1. [My Money App - Frontend](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app/frontend) (Aplicativo de gestão de finanças. React (Router, Redux))
 
 - #### 🟢 Node.JS
 1. [My Money App - Backend](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app/backend) (Aplicativo de gestão de finanças. Node.JS (Express), MongoDB (Mongoose))
 
 2. [Perguntas Express](https://github.com/ldsmaga/projetos-cursos/tree/main/perguntas-express) (Simples projeto que permite criação e exibição de perguntas e respostas. (Node.JS (Express), EJS)
+
+- #### ⚛️ React
+1. [My Money App - Frontend](https://github.com/ldsmaga/projetos-cursos/tree/main/my-money-app/frontend) (Aplicativo de gestão de finanças. React (Router, Redux))
+2. [Fundamentos React](https://github.com/ldsmaga/projetos-cursos/tree/main/fundamentos-react) (Exercícios dos principais conceitos do React)
 
 - #### ✌️ VueJS
 
